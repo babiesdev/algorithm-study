@@ -1,4 +1,7 @@
-# 코딩 테스트 문제 풀이 Repository
+# 🏊‍♀️ Every Week Algorithm 🏊‍
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/45007556/136029853-b5ce7cd9-5f31-4a46-9b6f-d4eb90dc8419.png"/>
+</div>
 
 # 스터디 방식
 
