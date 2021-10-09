@@ -53,9 +53,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/Desk/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1-test.py" />
@@ -96,5 +96,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633790977129">
+      <screen x="0" y="25" width="1920" height="953" />
+    </state>
+    <state x="424" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.205.1440.875/0.25.1920.953@0.25.1920.953" timestamp="1633790977129" />
+    <state width="1898" height="254" key="GridCell.Tab.0.bottom" timestamp="1633790989568">
+      <screen x="0" y="25" width="1920" height="953" />
+    </state>
+    <state width="1898" height="254" key="GridCell.Tab.0.bottom/1920.205.1440.875/0.25.1920.953@0.25.1920.953" timestamp="1633790989568" />
+    <state width="1898" height="254" key="GridCell.Tab.0.center" timestamp="1633790989566">
+      <screen x="0" y="25" width="1920" height="953" />
+    </state>
+    <state width="1898" height="254" key="GridCell.Tab.0.center/1920.205.1440.875/0.25.1920.953@0.25.1920.953" timestamp="1633790989566" />
+    <state width="1898" height="254" key="GridCell.Tab.0.left" timestamp="1633790989565">
+      <screen x="0" y="25" width="1920" height="953" />
+    </state>
+    <state width="1898" height="254" key="GridCell.Tab.0.left/1920.205.1440.875/0.25.1920.953@0.25.1920.953" timestamp="1633790989565" />
+    <state width="1898" height="254" key="GridCell.Tab.0.right" timestamp="1633790989567">
+      <screen x="0" y="25" width="1920" height="953" />
+    </state>
+    <state width="1898" height="254" key="GridCell.Tab.0.right/1920.205.1440.875/0.25.1920.953@0.25.1920.953" timestamp="1633790989567" />
   </component>
 </project>
