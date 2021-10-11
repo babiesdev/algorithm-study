@@ -22,3 +22,16 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  Array   | <span style="color:green">Easy</span> |
 
 </details>
+
+<details markdown="1">
+<summary><strong>1주차: 2021-10-11 ~ 2021-10-16</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [217](https://leetcode.com/problems/contains-duplicate/)  |  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |        Array        |       <span style="color:green">Easy</span>        |
+| [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|   [70](https://leetcode.com/problems/climbing-stairs/)    |     [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
+
+</details>
