@@ -19,8 +19,8 @@
 
 |                               문제번호                                |                                             문제이름                                              | 문제유형 |                난이도                 |
 | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------: | :-----------------------------------: |
-|              [1](https://leetcode.com/problems/two-sum/)              |                         [Two Sum](https://leetcode.com/problems/two-sum/)                         |  Array   | <span style="color:green">Easy</span> |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  Array   | <span style="color:green">Easy</span> |
+|              [1](https://leetcode.com/problems/two-sum/)              |                         Two Sum                         |  Array   | <span style="color:green">Easy</span> |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock |  Array   | <span style="color:green">Easy</span> |
 
 </details>
 
@@ -31,8 +31,21 @@
 
 |                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
 | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [217](https://leetcode.com/problems/contains-duplicate/)  |  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |        Array        |       <span style="color:green">Easy</span>        |
-| [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
-|   [70](https://leetcode.com/problems/climbing-stairs/)    |     [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
+| [217](https://leetcode.com/problems/contains-duplicate/)  |  Contains Duplicate  |        Array        |       <span style="color:green">Easy</span>        |
+| [371](https://leetcode.com/problems/sum-of-two-integers/) | Sum of Two Integers |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|   [70](https://leetcode.com/problems/climbing-stairs/)    |     Climbing Stairs     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
 
+</details>
+
+<details markdown="1">
+<summary><strong>2주차: 2021-10-18 ~ 2021-10-24</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [322](https://leetcode.com/problems/coin-change/)  |  Coin Change  |        Dynamic Programming        |       <span style="color:rgb(239, 108, 0)">Medium</span>        |
+| [133](https://leetcode.com/problems/clone-graph/) | Clone Graph |       Graph        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|   [206](https://leetcode.com/problems/reverse-linked-list/)    |     Reverse Linked List     | Linked List |       <span style="color:green;">Easy</span>       |
+|   [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |     Maximum Depth of Binary Tree     | Tree |       <span style="color:green;">Easy</span>       |
 </details>
