@@ -8,6 +8,7 @@
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-%ED%8C%81)에 공유한다.
 - 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 질문한다.
 - 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 추천한다.
+- 늦게 참여했다고, 늦은 것이 아니니 현재 주차부터 참여하면서 지난 주차 문제도 꼭 풀어보도록 한다.
 
 # 문제
 
