@@ -8,6 +8,7 @@
 - 공유하고 싶은 공부한 내용이나 팁 등을 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-%ED%8C%81)에 공유한다.
 - 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 질문한다.
 - 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 추천한다.
+- 늦게 참여했다고, 늦은 것이 아니니 현재 주차부터 참여하면서 지난 주차 문제도 꼭 풀어보도록 한다.
 
 # 문제
 
@@ -18,8 +19,8 @@
 
 |                               문제번호                                |                                             문제이름                                              | 문제유형 |                난이도                 |
 | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------: | :-----------------------------------: |
-|              [1](https://leetcode.com/problems/two-sum/)              |                         [Two Sum](https://leetcode.com/problems/two-sum/)                         |  Array   | <span style="color:green">Easy</span> |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  Array   | <span style="color:green">Easy</span> |
+|              [1](https://leetcode.com/problems/two-sum/)              |                         Two Sum                         |  Array   | <span style="color:green">Easy</span> |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock |  Array   | <span style="color:green">Easy</span> |
 
 </details>
 
@@ -30,8 +31,21 @@
 
 |                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
 | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [217](https://leetcode.com/problems/contains-duplicate/)  |  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |        Array        |       <span style="color:green">Easy</span>        |
-| [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
-|   [70](https://leetcode.com/problems/climbing-stairs/)    |     [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
+| [217](https://leetcode.com/problems/contains-duplicate/)  |  Contains Duplicate  |        Array        |       <span style="color:green">Easy</span>        |
+| [371](https://leetcode.com/problems/sum-of-two-integers/) | Sum of Two Integers |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|   [70](https://leetcode.com/problems/climbing-stairs/)    |     Climbing Stairs     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
 
+</details>
+
+<details markdown="1">
+<summary><strong>2주차: 2021-10-18 ~ 2021-10-24</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [322](https://leetcode.com/problems/coin-change/)  |  Coin Change  |        Dynamic Programming        |       <span style="color:rgb(239, 108, 0)">Medium</span>        |
+| [133](https://leetcode.com/problems/clone-graph/) | Clone Graph |       Graph        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|   [206](https://leetcode.com/problems/reverse-linked-list/)    |     Reverse Linked List     | Linked List |       <span style="color:green;">Easy</span>       |
+|   [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |     Maximum Depth of Binary Tree     | Tree |       <span style="color:green;">Easy</span>       |
 </details>
