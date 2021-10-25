@@ -49,3 +49,16 @@
 |   [206](https://leetcode.com/problems/reverse-linked-list/)    |     Reverse Linked List     | Linked List |       <span style="color:green;">Easy</span>       |
 |   [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |     Maximum Depth of Binary Tree     | Tree |       <span style="color:green;">Easy</span>       |
 </details>
+
+<details markdown="1">
+<summary><strong>3주차: 2021-10-25 ~ 2021-10-31</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [238](https://leetcode.com/problems/product-of-array-except-self/)  |  Product of Array Except Self  |        Array        |       Medium        |
+| [191](https://leetcode.com/problems/number-of-1-bits/)  |  Number of 1 Bits  |        Binary        |       Easy       |
+| [300](https://leetcode.com/problems/longest-increasing-subsequence/)  |  Longest Increasing Subsequence  |        Dynamic Programming        |       Medium       |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  Longest Substring Without Repeating Characters  |        String        |       Medium       |
+</details>
