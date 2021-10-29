@@ -3,7 +3,7 @@
  * @param {number[][]} prerequisites
  * @return {boolean}
  */
-// 토폴로지 순서가 가능한지 확인하기 위해 Kahn의 알고리즘을 사용합니다.
+// 토폴로지 순서가 가능한지 확인하기 위해 Kahn's algorithm 알고리즘을 사용합니다.
 // 이 문제에서 prequisites 배열의 각 항목은 [a,b] 형식으로 나타납니다.
 var canFinish = function(numCourses, prerequisites) {
     // 각 코스가 'a'였던 횟수를 포함하는 배열을 초기화합니다.
