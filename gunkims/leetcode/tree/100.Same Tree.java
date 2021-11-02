@@ -20,6 +20,7 @@ class TreeNode {
         this.right = right;
     }
 }
+//재귀를 이용한 풀이
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) return true;
@@ -27,5 +28,32 @@ class Solution {
         if(p.val != q.val) return false;
 
         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+    }
+}
+//BFS를 이용한 풀이
+class Solution2 {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p == null && q == null) return true;
+
+        Queue<TreeNode> pQueue = new LinkedList<>();
+        pQueue.offer(p);
+        Queue<TreeNode> qQueue = new LinkedList<>();
+        qQueue.offer(q);
+
+        while(!pQueue.isEmpty() || !qQueue.isEmpty()) {
+            TreeNode currentP = pQueue.poll();
+            TreeNode currentQ = qQueue.poll();
+
+            if(currentP == null && currentQ == null) continue;
+            if(currentP != null && currentQ == null) return false;
+            if(currentQ != null && currentP == null) return false;
+            if(currentP.val != currentQ.val) return false;
+            
+            pQueue.offer(currentP.left);
+            pQueue.offer(currentP.right);
+            qQueue.offer(currentQ.left);
+            qQueue.offer(currentQ.right);
+        }
+        return true;
     }
 }
