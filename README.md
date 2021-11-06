@@ -62,3 +62,16 @@
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  |  Longest Increasing Subsequence  |        Dynamic Programming        |       Medium       |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  Longest Substring Without Repeating Characters  |        String        |       Medium       |
 </details>
+
+<details markdown="1">
+<summary><strong>4주차: 2021-11-01 ~ 2021-11-07</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [56](https://leetcode.com/problems/merge-intervals/)  |  Merge Intervals  |        Interval        |       Medium        |
+| [141](https://leetcode.com/problems/linked-list-cycle/)  |  Linked List Cycle  |        Linked List        |       Easy        |
+| [100](https://leetcode.com/problems/same-tree/)  |  Same Tree  |        Tree        |       Easy        |
+| [53](https://leetcode.com/problems/maximum-subarray/)  |  Maximum Subarray  |        Array        |       Easy        |
+</details>
