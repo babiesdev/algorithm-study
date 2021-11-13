@@ -70,3 +70,38 @@ Constraints:
 - Constraints:
     - `1 <= prices.length <= 105`
     - `0 <= prices[i] <= 104`
+
+## 53. Maximum Subarray
+
+정수 배열 `nums` 가 주어졌을 때, 가장 큰 합을 갖는 연속적인 하위 배열(최소한 하나의 숫자를 포함)을 찾아 그 합을 반환합니다. 하위 배열은 배열의 연속적인 부분입니다.
+
+### Example 1:
+
+```
+Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
+Output: 6
+Explanation: [4,-1,2,1] 가장 큰 합 6을 가집니다.
+```
+
+### Example 2:
+
+```
+Input: nums = [1]
+Output: 1
+```
+
+### Example 3:
+
+```
+Input: nums = [5,4,-1,7,8]
+Output: 23
+```
+
+### Constraints:
+
+- `1 <= nums.length <= 105`
+- `-104 <= nums[i] <= 104`
+
+### Follow up: 
+
+O(n) 솔루션을 알아냈다면 더 미묘한 분할 정복 방식을 사용하여 다른 솔루션을 코딩해 보십시오.
