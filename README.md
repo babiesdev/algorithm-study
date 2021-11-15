@@ -75,3 +75,16 @@
 | [100](https://leetcode.com/problems/same-tree/)  |  Same Tree  |        Tree        |       Easy        |
 | [53](https://leetcode.com/problems/maximum-subarray/)  |  Maximum Subarray  |        Array        |       Easy        |
 </details>
+
+<details markdown="1">
+<summary><strong>5주차: 2021-11-08 ~ 2021-11-15</summary></strong>
+
+<br/>
+
+|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
+| [1143](https://leetcode.com/problems/longest-common-subsequence/)  |  Longest Common Subsequence  |        Dynamic Programming        |       Medium        |
+| [207](https://leetcode.com/problems/course-schedule/) | Course Schedule | Graph | Medium |
+| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | String | Medium | 
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | String | Easy |
+</details>
