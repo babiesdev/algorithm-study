@@ -17,9 +17,9 @@
 
 <br/>
 
-|                               문제번호                                |                                             문제이름                                              | 문제유형 |                난이도                 |
-| :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------: | :-----------------------------------: |
-|              [1](https://leetcode.com/problems/two-sum/)              |                         Two Sum                         |  Array   | <span style="color:green">Easy</span> |
+|                               문제번호                                |            문제이름             | 문제유형 |                난이도                 |
+| :-------------------------------------------------------------------: | :-----------------------------: | :------: | :-----------------------------------: |
+|              [1](https://leetcode.com/problems/two-sum/)              |             Two Sum             |  Array   | <span style="color:green">Easy</span> |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock |  Array   | <span style="color:green">Easy</span> |
 
 </details>
@@ -29,11 +29,11 @@
 
 <br/>
 
-|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [217](https://leetcode.com/problems/contains-duplicate/)  |  Contains Duplicate  |        Array        |       <span style="color:green">Easy</span>        |
+|                         문제번호                          |      문제이름       |      문제유형       |                       난이도                       |
+| :-------------------------------------------------------: | :-----------------: | :-----------------: | :------------------------------------------------: |
+| [217](https://leetcode.com/problems/contains-duplicate/)  | Contains Duplicate  |        Array        |       <span style="color:green">Easy</span>        |
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | Sum of Two Integers |       Binary        | <span style="color:rgb(239, 108, 0)">Medium</span> |
-|   [70](https://leetcode.com/problems/climbing-stairs/)    |     Climbing Stairs     | Dynamic Programming |       <span style="color:green;">Easy</span>       |
+|   [70](https://leetcode.com/problems/climbing-stairs/)    |   Climbing Stairs   | Dynamic Programming |       <span style="color:green;">Easy</span>       |
 
 </details>
 
@@ -42,12 +42,13 @@
 
 <br/>
 
-|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [322](https://leetcode.com/problems/coin-change/)  |  Coin Change  |        Dynamic Programming        |       <span style="color:rgb(239, 108, 0)">Medium</span>        |
-| [133](https://leetcode.com/problems/clone-graph/) | Clone Graph |       Graph        | <span style="color:rgb(239, 108, 0)">Medium</span> |
-|   [206](https://leetcode.com/problems/reverse-linked-list/)    |     Reverse Linked List     | Linked List |       <span style="color:green;">Easy</span>       |
-|   [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |     Maximum Depth of Binary Tree     | Tree |       <span style="color:green;">Easy</span>       |
+|                              문제번호                              |           문제이름           |      문제유형       |                       난이도                       |
+| :----------------------------------------------------------------: | :--------------------------: | :-----------------: | :------------------------------------------------: |
+|         [322](https://leetcode.com/problems/coin-change/)          |         Coin Change          | Dynamic Programming | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|         [133](https://leetcode.com/problems/clone-graph/)          |         Clone Graph          |        Graph        | <span style="color:rgb(239, 108, 0)">Medium</span> |
+|     [206](https://leetcode.com/problems/reverse-linked-list/)      |     Reverse Linked List      |     Linked List     |       <span style="color:green;">Easy</span>       |
+| [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree |        Tree         |       <span style="color:green;">Easy</span>       |
+
 </details>
 
 <details markdown="1">
@@ -55,12 +56,13 @@
 
 <br/>
 
-|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [238](https://leetcode.com/problems/product-of-array-except-self/)  |  Product of Array Except Self  |        Array        |       Medium        |
-| [191](https://leetcode.com/problems/number-of-1-bits/)  |  Number of 1 Bits  |        Binary        |       Easy       |
-| [300](https://leetcode.com/problems/longest-increasing-subsequence/)  |  Longest Increasing Subsequence  |        Dynamic Programming        |       Medium       |
-| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  Longest Substring Without Repeating Characters  |        String        |       Medium       |
+|                                      문제번호                                      |                    문제이름                    |      문제유형       | 난이도 |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------: | :----: |
+|         [238](https://leetcode.com/problems/product-of-array-except-self/)         |          Product of Array Except Self          |        Array        | Medium |
+|               [191](https://leetcode.com/problems/number-of-1-bits/)               |                Number of 1 Bits                |       Binary        |  Easy  |
+|        [300](https://leetcode.com/problems/longest-increasing-subsequence/)        |         Longest Increasing Subsequence         | Dynamic Programming | Medium |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters |       String        | Medium |
+
 </details>
 
 <details markdown="1">
@@ -68,23 +70,39 @@
 
 <br/>
 
-|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [56](https://leetcode.com/problems/merge-intervals/)  |  Merge Intervals  |        Interval        |       Medium        |
-| [141](https://leetcode.com/problems/linked-list-cycle/)  |  Linked List Cycle  |        Linked List        |       Easy        |
-| [100](https://leetcode.com/problems/same-tree/)  |  Same Tree  |        Tree        |       Easy        |
-| [53](https://leetcode.com/problems/maximum-subarray/)  |  Maximum Subarray  |        Array        |       Easy        |
+|                        문제번호                         |     문제이름      |  문제유형   | 난이도 |
+| :-----------------------------------------------------: | :---------------: | :---------: | :----: |
+|  [56](https://leetcode.com/problems/merge-intervals/)   |  Merge Intervals  |  Interval   | Medium |
+| [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Linked List |  Easy  |
+|     [100](https://leetcode.com/problems/same-tree/)     |     Same Tree     |    Tree     |  Easy  |
+|  [53](https://leetcode.com/problems/maximum-subarray/)  | Maximum Subarray  |    Array    |  Easy  |
+
 </details>
 
 <details markdown="1">
-<summary><strong>5주차: 2021-11-08 ~ 2021-11-15</summary></strong>
+<summary><strong>5주차: 2021-11-08 ~ 2021-11-14</summary></strong>
 
 <br/>
 
-|                         문제번호                          |                                 문제이름                                  |      문제유형       |                       난이도                       |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :------------------------------------------------: |
-| [1143](https://leetcode.com/problems/longest-common-subsequence/)  |  Longest Common Subsequence  |        Dynamic Programming        |       Medium        |
-| [207](https://leetcode.com/problems/course-schedule/) | Course Schedule | Graph | Medium |
-| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | String | Medium | 
-| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | String | Easy |
+|                                   문제번호                                    |                문제이름                 |      문제유형       | 난이도 |
+| :---------------------------------------------------------------------------: | :-------------------------------------: | :-----------------: | :----: |
+|       [1143](https://leetcode.com/problems/longest-common-subsequence/)       |       Longest Common Subsequence        | Dynamic Programming | Medium |
+|             [207](https://leetcode.com/problems/course-schedule/)             |             Course Schedule             |        Graph        | Medium |
+| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement |       String        | Medium |
+|              [242](https://leetcode.com/problems/valid-anagram/)              |              Valid Anagram              |       String        |  Easy  |
+
+</details>
+
+<details markdown="1">
+<summary><strong>6주차: 2021-11-15 ~ 2021-11-21</summary></strong>
+
+<br/>
+
+|                              문제번호                              |           문제이름           | 문제유형 | 난이도 |
+| :----------------------------------------------------------------: | :--------------------------: | :------: | :----: |
+|      [226](https://leetcode.com/problems/invert-binary-tree/)      |      invert-binary-tree      |   Tree   |  Easy  |
+| [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | binary-tree-maximum-path-sum |   Tree   |  Hard  |
+|   [152](https://leetcode.com/problems/maximum-product-subarray/)   |   Maximum Product Subarray   |  Array   | Medium |
+|        [338](https://leetcode.com/problems/counting-bits/)         |        Counting Bits         |  Binary  |  Easy  |
+
 </details>
