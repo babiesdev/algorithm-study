@@ -106,3 +106,17 @@
 |        [338](https://leetcode.com/problems/counting-bits/)         |        Counting Bits         |  Binary  |  Easy  |
 
 </details>
+
+<details markdown="1">
+<summary><strong>7주차: 2021-11-22 ~ 2021-11-28</summary></strong>
+
+<br/>
+
+|                             문제번호                              |          문제이름           |      문제유형       | 난이도 |
+| :---------------------------------------------------------------: | :-------------------------: | :-----------------: | :----: |
+|         [139](https://leetcode.com/problems/word-break/)          |         Word Break          | Dynamic Programming | Medium |
+|     [377](https://leetcode.com/problems/combination-sum-iv/)      |     Combination Sum IV      | Dynamic Programming | Medium |
+| [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow |        Graph        | Medium |
+|      [200](https://leetcode.com/problems/number-of-islands/)      |      Number of Islands      |        Graph        | Medium |
+
+</details>
