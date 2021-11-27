@@ -9,6 +9,7 @@
 - 문제를 풀면서 이해가 안되거나 도움이 필요할 경우 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 질문한다.
 - 다같이 풀어보고 싶거나 추천하고 싶은 문제는 [여기](https://github.com/Let-s-Happy-Study/algorithm-study/discussions/categories/q-a)에 추천한다.
 - 늦게 참여했다고, 늦은 것이 아니니 현재 주차부터 참여하면서 지난 주차 문제도 꼭 풀어보도록 한다.
+- PR에 문제가 있을 경우 [여기](https://github.com/Meet-By-Code/algorithm-study/issues)에 이슈를 남긴다.
 
 # 문제
 
