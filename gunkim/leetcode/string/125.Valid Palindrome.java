@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Solution125 solution = new Solution125();
+        Solution solution = new Solution();
         System.out.println(solution.isPalindrome("A man, a plan, a canal: Panama"));
     }
 }
