@@ -152,3 +152,16 @@
 | [572](https://leetcode.com/problems/subtree-of-another-tree/)           |  Subtree of Another Tree    | Tree   | Easy   |
 
 </details>
+
+<details markdown="1">
+<summary><strong>10주차: 2021-12-13 ~ 2021-12-19</summary></strong>
+
+<br/>
+
+| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
+|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/)                  | Merge k Sorted Lists                 | Heap  | Hard   |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Array | Medium |
+| [33](Search in Rotated Sorted Array) | Search in Rotated Sorted Array | Array| Medium |
+| [268](https://leetcode.com/problems/missing-number/) | Missing Number | Binary | Easy |
+</details>
