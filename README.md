@@ -181,3 +181,15 @@
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)|Set Matrix Zeroes|Matrix|Medium|
 
 </details>
+
+<details markdown="1">
+<summary><strong>12주차: 2021-12-27 ~ 2022-01-02</strong></summary>
+
+<br/>
+
+| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
+|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
+|[5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring| String | Medium |
+|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium |
+|[15](https://leetcode.com/problems/3sum/)| 3Sum | Array | Medium |
+|[190](https://leetcode.com/problems/reverse-bits/)| Reverse Bits | Binary | Easy |
