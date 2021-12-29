@@ -22,5 +22,4 @@ class Solution {
         }
         return null;
     }// twoSum -end
-
 }
