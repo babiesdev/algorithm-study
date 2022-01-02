@@ -17,9 +17,9 @@ class Solution:
 
             # 현재 위치를 노드로 선언하여 헤드를 옮길 수 있게 함
             head = TreeNode(preorder.popleft())
-            head.left = tree(head.val)  # 왼쪽 서브트리에 배열의 값을 넘김
+            head.left = tree(head.val)  # 왼쪽 서브트리에 재귀 형식으로 값을 넘김
             inorder.popleft()  # preorder와 순서를 맞추기 위해 pop
-            head.right = tree(val)  # 오른쪽 서브트리에 현재 값을 넘김
+            head.right = tree(val)  # 오른쪽 서브트리에 현재 값을 넘겨 반복
 
             return head
 
