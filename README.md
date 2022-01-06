@@ -194,6 +194,8 @@
 |[15](https://leetcode.com/problems/3sum/)| 3Sum | Array | Medium |
 |[190](https://leetcode.com/problems/reverse-bits/)| Reverse Bits | Binary | Easy |
 
+</details>
+
 <details markdown="1">
 <summary><strong>13주차: 2022-01-03 ~ 2022-01-09</strong></summary>
 
