@@ -193,3 +193,15 @@
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium |
 |[15](https://leetcode.com/problems/3sum/)| 3Sum | Array | Medium |
 |[190](https://leetcode.com/problems/reverse-bits/)| Reverse Bits | Binary | Easy |
+
+<details markdown="1">
+<summary><strong>13주차: 2022-01-03 ~ 2022-01-09</strong></summary>
+
+<br/>
+
+| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
+|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
+|[213](https://leetcode.com/problems/house-robber-ii/)|House Robber II|Dynamic Programming|Medium|
+|[91](https://leetcode.com/problems/decode-ways/)|Decode Ways|Dynamic Programming|Medium|
+|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Medium|
+|[54](https://leetcode.com/problems/spiral-matrix/)|Spiral Matrix|Matrix|Medium|
