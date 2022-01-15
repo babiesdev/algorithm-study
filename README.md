@@ -205,7 +205,20 @@
 |----------------------------------------------------------------------------|--------------------------------------|-------|--------|
 |[213](https://leetcode.com/problems/house-robber-ii/)|House Robber II|Dynamic Programming|Medium|
 |[91](https://leetcode.com/problems/decode-ways/)|Decode Ways|Dynamic Programming|Medium|
-|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Medium|
+|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Linked List|Medium|
 |[54](https://leetcode.com/problems/spiral-matrix/)|Spiral Matrix|Matrix|Medium|
 
+</details>
+
+<details markdown="1">
+<summary><strong>14주차: 2022-01-10 ~ 2022-01-16</strong></summary>
+
+<br/>
+
+| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
+|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
+|[647](https://leetcode.com/problems/palindromic-substrings/)|Palindromic Substrings|String|Medium|
+|[98](https://leetcode.com/problems/validate-binary-search-tree/)|Validate Binary Search Tree|Tree|Medium|
+|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Kth Smallest Element in a BST|Tree|Medium|
+|[11](https://leetcode.com/problems/container-with-most-water/)|Container With Most Water|Array|Medium|
 </details>
