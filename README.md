@@ -222,3 +222,16 @@
 |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Kth Smallest Element in a BST|Tree|Medium|
 |[11](https://leetcode.com/problems/container-with-most-water/)|Container With Most Water|Array|Medium|
 </details>
+
+<details markdown="1">
+<summary><strong>15주차: 2022-01-17 ~ 2022-01-23</strong></summary>
+
+<br/>
+
+| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
+|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
+|[62](https://leetcode.com/problems/unique-paths/)|Unique Paths|Dynamic Programming|Medium|
+|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Linked List|Medium|
+|[48](https://leetcode.com/problems/rotate-image/)|Rotate Image|Matrix|Medium|
+|[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Lowest Common Ancestor of a Binary Search Tree|Tree|Easy
+</details>
