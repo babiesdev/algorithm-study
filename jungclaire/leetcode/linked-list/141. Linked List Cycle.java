@@ -9,11 +9,11 @@
  * }
  * }
  */
-public class Solution {
-    public boolean hasCycle(ListNode head) {
+class Solution141 {
+    public boolean hasCycle(Solution19.ListNode head) {
 
-        ListNode runner_1 = head;
-        ListNode runner_2 = head;
+        Solution19.ListNode runner_1 = head;
+        Solution19.ListNode runner_2 = head;
 
         if (head == null) {
             return false;
