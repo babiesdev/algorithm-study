@@ -146,12 +146,12 @@
 
 <br/>
 
-| 문제번호                                                                    | 문제이름 | 문제유형   | 난이도    |
-|-------------------------------------------------------------------------|------|--------|--------|
-| [20](https://leetcode.com/problems/valid-parentheses/)                  | Valid Parentheses     | String | Easy   |
-| [125](https://leetcode.com/problems/valid-palindrome/)                  |  Valid Palindrome    | String | Easy   |
-| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  Binary Tree Level Order Traversal    | Tree   | Medium |
-| [572](https://leetcode.com/problems/subtree-of-another-tree/)           |  Subtree of Another Tree    | Tree   | Easy   |
+| 문제번호                                                                | 문제이름                          | 문제유형 | 난이도 |
+| ----------------------------------------------------------------------- | --------------------------------- | -------- | ------ |
+| [20](https://leetcode.com/problems/valid-parentheses/)                  | Valid Parentheses                 | String   | Easy   |
+| [125](https://leetcode.com/problems/valid-palindrome/)                  | Valid Palindrome                  | String   | Easy   |
+| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | Tree     | Medium |
+| [572](https://leetcode.com/problems/subtree-of-another-tree/)           | Subtree of Another Tree           | Tree     | Easy   |
 
 </details>
 
@@ -160,11 +160,11 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Array | Medium |
-| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | Array| Medium |
-| [268](https://leetcode.com/problems/missing-number/) | Missing Number | Binary | Easy |
+| 문제번호                                                                   | 문제이름                             | 문제유형 | 난이도 |
+| -------------------------------------------------------------------------- | ------------------------------------ | -------- | ------ |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Array    | Medium |
+| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)        | Search in Rotated Sorted Array       | Array    | Medium |
+| [268](https://leetcode.com/problems/missing-number/)                       | Missing Number                       | Binary   | Easy   |
 
 </details>
 
@@ -173,12 +173,12 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-|[198](https://leetcode.com/problems/house-robber/) | House Robber | Dynamic Programming | Medium |
-|[128](https://leetcode.com/problems/longest-consecutive-sequence/)|Longest Consecutive Sequence|Graph|Medium|
-|[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|Linked List|Medium|
-|[73](https://leetcode.com/problems/set-matrix-zeroes/)|Set Matrix Zeroes|Matrix|Medium|
+| 문제번호                                                              | 문제이름                         | 문제유형            | 난이도 |
+| --------------------------------------------------------------------- | -------------------------------- | ------------------- | ------ |
+| [198](https://leetcode.com/problems/house-robber/)                    | House Robber                     | Dynamic Programming | Medium |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/)    | Longest Consecutive Sequence     | Graph               | Medium |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | Linked List         | Medium |
+| [73](https://leetcode.com/problems/set-matrix-zeroes/)                | Set Matrix Zeroes                | Matrix              | Medium |
 
 </details>
 
@@ -187,12 +187,12 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-|[5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring| String | Medium |
-|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium |
-|[15](https://leetcode.com/problems/3sum/)| 3Sum | Array | Medium |
-|[190](https://leetcode.com/problems/reverse-bits/)| Reverse Bits | Binary | Easy |
+| 문제번호                                                                                        | 문제이름                                                  | 문제유형 | 난이도 |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- | ------ |
+| [5](https://leetcode.com/problems/longest-palindromic-substring/)                               | Longest Palindromic Substring                             | String   | Medium |
+| [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Construct Binary Tree from Preorder and Inorder Traversal | Tree     | Medium |
+| [15](https://leetcode.com/problems/3sum/)                                                       | 3Sum                                                      | Array    | Medium |
+| [190](https://leetcode.com/problems/reverse-bits/)                                              | Reverse Bits                                              | Binary   | Easy   |
 
 </details>
 
@@ -201,12 +201,12 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-|[213](https://leetcode.com/problems/house-robber-ii/)|House Robber II|Dynamic Programming|Medium|
-|[91](https://leetcode.com/problems/decode-ways/)|Decode Ways|Dynamic Programming|Medium|
-|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Linked List|Medium|
-|[54](https://leetcode.com/problems/spiral-matrix/)|Spiral Matrix|Matrix|Medium|
+| 문제번호                                              | 문제이름        | 문제유형            | 난이도 |
+| ----------------------------------------------------- | --------------- | ------------------- | ------ |
+| [213](https://leetcode.com/problems/house-robber-ii/) | House Robber II | Dynamic Programming | Medium |
+| [91](https://leetcode.com/problems/decode-ways/)      | Decode Ways     | Dynamic Programming | Medium |
+| [143](https://leetcode.com/problems/reorder-list/)    | Reorder List    | Linked List         | Medium |
+| [54](https://leetcode.com/problems/spiral-matrix/)    | Spiral Matrix   | Matrix              | Medium |
 
 </details>
 
@@ -215,12 +215,13 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-|[647](https://leetcode.com/problems/palindromic-substrings/)|Palindromic Substrings|String|Medium|
-|[98](https://leetcode.com/problems/validate-binary-search-tree/)|Validate Binary Search Tree|Tree|Medium|
-|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Kth Smallest Element in a BST|Tree|Medium|
-|[11](https://leetcode.com/problems/container-with-most-water/)|Container With Most Water|Array|Medium|
+| 문제번호                                                            | 문제이름                      | 문제유형 | 난이도 |
+| ------------------------------------------------------------------- | ----------------------------- | -------- | ------ |
+| [647](https://leetcode.com/problems/palindromic-substrings/)        | Palindromic Substrings        | String   | Medium |
+| [98](https://leetcode.com/problems/validate-binary-search-tree/)    | Validate Binary Search Tree   | Tree     | Medium |
+| [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Kth Smallest Element in a BST | Tree     | Medium |
+| [11](https://leetcode.com/problems/container-with-most-water/)      | Container With Most Water     | Array    | Medium |
+
 </details>
 
 <details markdown="1">
@@ -228,10 +229,39 @@
 
 <br/>
 
-| 문제번호                                                                       | 문제이름                                 | 문제유형  | 난이도    |
-|----------------------------------------------------------------------------|--------------------------------------|-------|--------|
-|[62](https://leetcode.com/problems/unique-paths/)|Unique Paths|Dynamic Programming|Medium|
-|[143](https://leetcode.com/problems/reorder-list/)|Reorder List|Linked List|Medium|
-|[48](https://leetcode.com/problems/rotate-image/)|Rotate Image|Matrix|Medium|
-|[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Lowest Common Ancestor of a Binary Search Tree|Tree|Easy
+| 문제번호                                                                             | 문제이름                                       | 문제유형            | 난이도 |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------- | ------------------- | ------ |
+| [62](https://leetcode.com/problems/unique-paths/)                                    | Unique Paths                                   | Dynamic Programming | Medium |
+| [48](https://leetcode.com/problems/rotate-image/)                                    | Rotate Image                                   | Matrix              | Medium |
+| [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Lowest Common Ancestor of a Binary Search Tree | Tree                | Easy   |
+
 </details>
+
+<details markdown="1">
+<summary><strong>16주차: 2022-01-24 ~ 2022-01-30</strong></summary>
+
+<br/>
+
+| 문제번호                                                  | 문제이름             | 문제유형            | 난이도 |
+| --------------------------------------------------------- | -------------------- | ------------------- | ------ |
+| [212](https://leetcode.com/problems/word-search-ii/)      | Word Search II       | Tree                | Hard   |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | Heap                | Hard   |
+| [55](https://leetcode.com/problems/jump-game/)            | Jump Game            | Dynamic Programming | Medium |
+| [79](https://leetcode.com/problems/word-search/)          | Word Search          | Matrix              | Medium |
+
+</details>
+
+<details markdown="1">
+<summary><strong>17주차: 2022-01-31 ~ 2022-02-06</strong></summary>
+
+<br/>
+
+| 문제번호                                                                         | 문제이름                                   | 문제유형 | 난이도 |
+| -------------------------------------------------------------------------------- | ------------------------------------------ | -------- | ------ |
+| [208](https://leetcode.com/problems/implement-trie-prefix-tree/)                 | Implement Trie (Prefix Tree)               | Tree     | Medium |
+| [211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Design Add and Search Words Data Structure | Tree     | Medium |
+| [347](https://leetcode.com/problems/top-k-frequent-elements/)                    | Top K Frequent Elements                    | Heap     | Hard   |
+| [295](https://leetcode.com/problems/find-median-from-data-stream/)               | Find Median from Data Stream               | Heap     | Hard   |
+
+</details>
+`
